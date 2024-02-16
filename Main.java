@@ -1,4 +1,4 @@
-public class main {
+public class Main {
     // Método estático para calcular el valor de la función
     public static double calcularFuncion(double x, double y) {
         return x * x + 2 * x * y + y * y;
